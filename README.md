@@ -1,4 +1,4 @@
-# InstallElastisearchAndKibana
+# Install Elastisearch And Kibana
 
 
 ### 1. Download the Elasticsearch installer and Kibana binaries.
